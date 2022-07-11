@@ -1,0 +1,10 @@
+.containerB {
+    background: #1098f7;
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    font-size: 3rem;
+  }

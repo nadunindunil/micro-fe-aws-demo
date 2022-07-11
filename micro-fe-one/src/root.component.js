@@ -1,3 +1,9 @@
+import "./root.component.css"
+
 export default function Root(props) {
-  return <section>{props.name} Micro FE one is mounted!</section>;
+  return (
+    <section className="containerA">
+      {props.name} Micro FE one is mounted!
+    </section>
+  );
 }
